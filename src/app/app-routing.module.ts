@@ -21,7 +21,8 @@ const routes: Routes = [
       {path: 'rooms-detail', component: DeltailRoomComponent},
       {path: 'hotel-details', component: HotelDetailsComponent},
       {path: 'our-hotel', component: OurHotelComponent} 
-    
+           
+      
     ]
   },
 
